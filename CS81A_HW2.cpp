@@ -1,8 +1,7 @@
 /**************************************/
 /* CS81A Fall 2015                    */
 /* HW2: Color Wheel                   */
-/* Student Name: Robert Metchev       */
-/* SID: 10668730                      */
+/* Student Name: R                    */
 /**************************************/
 
 // main
